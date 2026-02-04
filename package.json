@@ -29,7 +29,7 @@
     "@react-native-picker/picker": "^2.11.0",
     "@sentry/react": "^8.46.0",
     "@vercel/blob": "^0.27.3",
-    "expo": "^52.0.41",
+    "expo": "^53.0.0",
     "expo-font": "~13.0.4",
     "lodash": "^4.17.21",
     "next": "^15.2.4",
